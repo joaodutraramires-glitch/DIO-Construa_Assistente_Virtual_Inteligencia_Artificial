@@ -1,4 +1,4 @@
-# Construa_Assistente_Virtual_Inteligencia_Artificial
+# Construa Assistente Virtual Inteligencia Artificial
 Desafio da Accenture - Python para Análise e Automação de Dados | DIO
 
 # MIA - Monitor Inteligente de Gastos com IA
