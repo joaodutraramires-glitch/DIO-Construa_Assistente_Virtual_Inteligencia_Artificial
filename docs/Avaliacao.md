@@ -81,6 +81,3 @@ Classificação Atenção.
 ### Observação
 
 A MIA identificou múltiplos gastos acima dos limites e apresentou recomendações para reduzir despesas.
-
-```
-```
